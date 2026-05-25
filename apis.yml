@@ -1,0 +1,85 @@
+aid: sokowatch
+name: Sokowatch / Wasoko
+description: >-
+  Sokowatch — rebranded as Wasoko in 2022 — is a pan-African B2B e-commerce
+  and distribution platform serving informal retailers (the mom-and-pop dukas,
+  kiosks, and neighborhood shops that move the majority of fast-moving consumer
+  goods across the continent). Founded in 2016 in Nairobi, Kenya by Daniel Yu,
+  the platform lets small shopkeepers order FMCG inventory via a mobile app
+  or SMS, with free same-day delivery to the shop door, eliminating costly
+  trips to wholesalers. Wasoko layers embedded fintech on top of commerce:
+  buy-now-pay-later inventory credit, working-capital loans for shopkeepers
+  who often lack access to traditional banking, and digital payments. At peak
+  the company operated across Kenya, Tanzania, Uganda, Rwanda, Côte d'Ivoire,
+  Senegal, and the Democratic Republic of the Congo. In December 2023, Wasoko
+  announced a merger with Egyptian B2B peer MaxAB, which closed in August 2024
+  to form MaxAB-Wasoko, Africa's largest B2B informal-retail network with
+  more than 450,000 merchants across eight countries (combining MaxAB's North
+  African footprint in Egypt and Morocco with Wasoko's Sub-Saharan reach) and
+  roughly 4,000 employees, co-led by Daniel Yu and MaxAB founder Belal
+  El-Megharbel. Post-merger the group exited underperforming markets
+  (Zambia, Uganda, Senegal) and pivoted harder into fintech, where margins
+  exceed core distribution. Wasoko's revenue model is wholesale-to-retail
+  product sales plus fintech (credit, payments) and logistics fees. The
+  platform is operated as a closed retailer-facing app; there is no public
+  developer API, SDK, partner integration program, or open-source release
+  for the commerce, logistics, or fintech surface. The legacy Sokowatch
+  GitHub organization exists but contains only forks of third-party tools
+  (Apache Superset, Fineract CN, Botpress, Kutt, Portainer) used internally,
+  with no first-party libraries or specifications.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - B2B Commerce
+  - Informal Retail
+  - Distribution
+  - Supply Chain
+  - Last-Mile Logistics
+  - FMCG
+  - Embedded Fintech
+  - Inventory Credit
+  - Buy Now Pay Later
+  - Working Capital
+  - Mobile Commerce
+  - Africa
+  - East Africa
+  - Kenya
+  - Egypt
+  - Financial Inclusion
+url: https://raw.githubusercontent.com/api-evangelist/sokowatch/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://wasoko.com
+  - type: MergedEntity
+    url: https://maxabwasoko.com
+  - type: MaxAB
+    url: https://maxab.io
+  - type: LegacyBrand
+    url: https://sokowatch.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wasokoglobal
+  - type: Twitter
+    url: https://twitter.com/wasokoglobal
+  - type: Facebook
+    url: https://www.facebook.com/WasokoOfficial
+  - type: Instagram
+    url: https://www.instagram.com/wasokoofficial
+  - type: GooglePlay
+    url: https://play.google.com/store/apps/details?id=com.sokowatch.duka
+  - type: AppStore
+    url: https://apps.apple.com/app/wasoko/id1502076383
+  - type: GitHub
+    url: https://github.com/Sokowatch
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/sokowatch
+  - type: Careers
+    url: https://wasoko.com/careers
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
