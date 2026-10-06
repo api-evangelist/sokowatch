@@ -89,10 +89,12 @@ tags_raw:
   - Financial Inclusion
 url: https://raw.githubusercontent.com/api-evangelist/sokowatch/refs/heads/main/apis.yml
 created: '2026-05-24'
-modified: '2026-05-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://wasoko.com/press/
+    type: Blog
   - type: DomainSecurity
     url: security/sokowatch-domain-security.yml
   - type: Website
